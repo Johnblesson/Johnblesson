@@ -7,8 +7,8 @@ Hi, I'm John Blesson! <img src="https://raw.githubusercontent.com/MartinHeinz/Ma
 ![](https://komarev.com/ghpvc/?username=IamNaeto&style=for-the-badge&color=blue&labelColor=000000)<a href="https://www.github.com/Johnblesson" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/IamNaeto?logo=github&style=for-the-badge&color=0C7DBE&labelColor=000000" /></a><a href="https://twitter.com/BlessonRowe" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/naetocharlie?logo=twitter&style=for-the-badge&color=0C7DBE&labelColor=000000"
-/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnaeto.github.io/portfolio/)[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/23279969094)
--->
+/></a>[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://iamnaeto.github.io/portfolio/)-->[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/23279969094)
+
 ### Welcome to my GitHub Profile. ###
 
 Key stuff to know about me to get you started:

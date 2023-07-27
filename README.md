@@ -120,15 +120,13 @@ Key stuff to know about me to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 </p>
 
-<!--<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/egesionuchb"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="iamnaeto" /></a></p><br><br><br><br><br>-->
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamNaeto&layout=compact)](https://github.com/IamNaeto/github-readme-stats)
 
-![IamNaeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamNaeto&show_icons=true&theme=codeSTACKr)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnblesson&show_icons=true&locale=en&layout=compact" alt="johnblesson" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=IamNaeto&theme=dark)](https://git.io/streak-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=johnblesson&show_icons=true&locale=en" alt="johnblesson" /></p>
 
-<a href="https://github.com/uyitech/github-readme-activity-graph"><img alt="IamNaeto' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=IamNaeto&bg_color=151515&color=FA8B00&line=FA8B00&point=FFFFFF&hide_border=true" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johnblesson&" alt="johnblesson" /></p>
 
 <b>Note:</b> The top languages shown above is just a measure of what I have posted here on Github and not a summary of my actual skill level as there are more to those languages shown.

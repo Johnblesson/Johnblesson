@@ -60,7 +60,7 @@ Key stuff to know about me to get you started:
 </a>
 
 <a href="https://replit.com/@John-BlessonBle" target="blank">
- <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAaVBMVEX////yYgfyYADyXADxVwD60ML3pIbzcTH4s5f0g0z5vqbzdTLxUQDxVQDxUADyYQD1iVj+9vH6zbv83M/1lGn2mnP5waz4tZn2oHz5uqH72Mnzbyj84db4r5L1jF/0eTz0f0f97+jzaBg0ctoKAAACcUlEQVR4nO3c3XLaMBRFYcsy0IBkfkwdWuqG5P0fspDc5EokljpbnFnrCfyNB5kZn+OmISIiIiIiIiIiIiIievAWp8vq22120x/1hX+xcRt9OyPvw2pQX/xXusStm1vbn9SXf7+zn+27FY9qwL2e8oBX4rOakO4QM4HOhVc1Itlbmy30P9WIVEP+LXTbTq1INeX+Cm/Fmh8ZxxLCblQzEmWfpLd8zafpU/5BcxX+UDMSIUSIUB9ChAj1IUSIUB9ChAj1IUSIUB9ChAj1IUSIUB9ChAj1IXx84a7Ie/yahSfzwrGzLtwH68IiI0N1C/dh/vjsYwibQ29d2Ix97jOxdmEzuC7PWL2wadabPnbz6+sXXg+cYZHRr2VG02Gv1t9vHXxGXdhVv5myzvxn5MNSTbhTrtC5bqc2pMsXuq7qgf8SQhd+qxWpSgjbs1qRqoTQhZoP1CJCP6kZicoI/6oZiYoI2xc1I1EZ4UbNSIQQIUJ9CBEi1IcQIUJ9CBEi1IcQIUJ9CBEi1IcQIUJ9CBEi1IcQ4YfQ/Ht8+7MY9udpzM9E2Z9rMz+baH6+1PqM8APMeT/ArL71fYv1yvbOjPm9J/O7a+b3D+3vkJrfA7a/y21/H9/+NxXsfxfD/rdNECJEqA8hQoT6ECJEqA8hQoT6ECJEqA8hQoT6ECJEqA8hQoT6EBoQFnmP/6xmJCoxMOS6Uc1INJUQxkHNSDTEfOC2UyuSveUfNb7uMftD/k0Mr2pEuuzTNNZ8kr53ziPGoxpwv0ucP0Tb9rVvSrw3bqNvZ+R92NT8oPjcYnlZfbvNbqp5oY6IiIiIiIiIiIiIiOi/9g+CXE0DtWMwzAAAAABJRU5ErkJggg==" width="45" height="45"/>
+ <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReplit&psig=AOvVaw3LIHTgRYd68l9B7ZFYI4E4&ust=1692801629359000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCYl92_8IADFQAAAAAdAAAAABAE" width="45" height="45"/>
 </a>
 
 <a href="https://codepen.io/Johnblesson" target="blank">

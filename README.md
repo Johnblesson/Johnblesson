@@ -60,7 +60,7 @@ Key stuff to know about me to get you started:
 </a>
 
 <a href="https://replit.com/@John-BlessonBle" target="blank">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FReplit&psig=AOvVaw3LIHTgRYd68l9B7ZFYI4E4&ust=1692801629359000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNCYl92_8IADFQAAAAAdAAAAABAE" width="45" height="45"/>
+ <img src="https://kharisprotech.vercel.app/images/New_Replit_Logo.svg.png" width="45" height="45"/>
 </a>
 
 <a href="https://codepen.io/Johnblesson" target="blank">

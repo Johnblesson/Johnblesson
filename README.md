@@ -23,6 +23,7 @@ Key stuff to know about me to get you started:
 - ⚡ Fact: The world is a better place with Christ and Tech!
 - 📧 How to reach me: [Mail Me](mailto:johnblessonrowe@gmail.com)
 - 📝 Want to know more about me and my experience: Check my [Resume](https://john-blesson-s-resume-johnblesson.vercel.app/)
+- 📝 Check out my portfolio: [Portfolio](https://johnblessonportfolio.onrender.com/)
 
 ## Soft skills: ##
 - Work collaboratively in a team

@@ -113,7 +113,7 @@ Key stuff to know about me to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
- <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--Rxmub8vz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5jd65usaioipnkv5xs5a.png" alt="solidity" width="45" height="45"/>
+ <img src="https://docs.soliditylang.org/fr/latest/_static/logo.svg" alt="solidity" width="45" height="45"/>
 </p>
 <p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

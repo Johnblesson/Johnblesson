@@ -113,6 +113,7 @@ Key stuff to know about me to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" alt="codepen" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
+ <img src=" https://www.google.com/imgres?imgurl=https%3A%2F%2Fres.cloudinary.com%2Fpracticaldev%2Fimage%2Ffetch%2Fs--Rxmub8vz--%2Fc_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000%2Fhttps%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F5jd65usaioipnkv5xs5a.png&tbnid=FNmOV-V-uNHGIM&vet=12ahUKEwjB1tX9uO-CAxVdhCcCHb_IC8sQMygBegQIARBw..i&imgrefurl=https%3A%2F%2Fdev.to%2Fgbengelebs%2Fintroduction-to-solidity-228c&docid=bbsOKhI_RzY3mM&w=1000&h=420&q=solidity&ved=2ahUKEwjB1tX9uO-CAxVdhCcCHb_IC8sQMygBegQIARBw" alt="solidity" width="45" height="45"/>
 </p>
 <p>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

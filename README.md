@@ -14,10 +14,7 @@ Key stuff to know about me to get you started:
 - 💻 I’m a frontend developer
 - 💻 I’m a devops engineer
 - 💻 I’m a cybersecurity expert
-- 💻 I’m a web 3.0 developer
-- ⏳ I’m currently working on my coding skills
-- 🌱 I’m currently a software engineering student at ALX Africa
-- 👯 I’m looking forward to collaborate on software engineering projects
+- 🌱 I’m software engineering graduate at ALX Africa
 - 🤔 I’m looking for help with mastering my skills as a software engineer
 - 
 - ⚡ Fact: The world is a better place with Christ and Tech!
@@ -89,7 +86,6 @@ Key stuff to know about me to get you started:
 <!--<a href="https://app.netlify.com/teams/iamnaeto/overview">
 <img src="https://cdn.iconscout.com/icon/free/png-128/netlify-3628945-3030170.png" width="45" height="45"/>
 </a>-->
-
 
 <h2>Languages and Tools</h2>
 <p align="left">

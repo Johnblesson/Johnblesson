@@ -15,8 +15,7 @@ Key stuff to know about me to get you started:
 - 💻 I’m a devops engineer
 - 💻 I’m a cybersecurity expert
 - 🌱 I’m software engineering graduate at ALX Africa
-- 🤔 I’m looking for help with mastering my skills as a software engineer
-- 
+
 - ⚡ Fact: The world is a better place with Christ and Tech!
 - 📧 How to reach me: [Mail Me](mailto:johnblessonrowe@gmail.com)
 - 📝 Want to know more about me and my experience: Check my [Resume](https://john-blesson-s-resume-johnblesson.vercel.app/)

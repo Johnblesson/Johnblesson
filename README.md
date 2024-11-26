@@ -10,8 +10,7 @@ Key stuff to know about me to get you started:
 
 -🌱 Designation: I am a <a href="https://www.facebook.com/profile.php?id=100066741995684">Pastor</a>
 - 💻 I’m a full stack developer
-- 💻 I’m a backend developer
-- 💻 I’m a frontend developer
+- 💻 Backend development specialist
 - 💻 I’m a devops engineer
 - 💻 I’m a cybersecurity expert
 - 🌱 I’m software engineering graduate at ALX Africa
